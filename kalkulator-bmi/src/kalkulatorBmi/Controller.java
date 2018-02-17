@@ -4,6 +4,10 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
 
+/**
+ * Created by Michał Nowak
+ */
+
 public class Controller {
     @FXML
     private Label label;
